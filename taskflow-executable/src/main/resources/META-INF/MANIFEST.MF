@@ -1,0 +1,19 @@
+taskflow-executable
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── taskflow
+│   │   │           └── TaskFlow.java
+│   │   └── resources
+│   │       ├── config
+│   │       │   └── config.properties
+│   │       └── META-INF
+│   │           └── MANIFEST.MF
+├── lib
+│   ├── flatlaf-3.4.1.jar
+│   ├── miglayout-swing.jar
+│   └── mysql-connector-j-9.1.0.jar
+├── pom.xml
+├── launch4j.xml
+└── README.md

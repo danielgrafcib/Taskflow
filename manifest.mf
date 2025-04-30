@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: lib/miglayout-core.jar lib/miglayout-swing.jar lib/flatlaf-3.4.1.jar lib/mysql-connector-j-9.1.0.jar lib/flatlaf-extras-3.4.1.jar lib/flatlaf-fonts-roboto-2.137.jar lib/jfreechart-1.5.3.jar lib/swing-datetime-picker-1.2.0.jar lib/swing-glasspane-popup-1.5.0.jar lib/swing-toast-notifications-1.0.2.jar
+

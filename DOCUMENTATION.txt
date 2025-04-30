@@ -1,0 +1,151 @@
+===============================================
+           TASKFLOW - DOCUMENTATION
+===============================================
+
+TABLE DES MATIÈRES
+-----------------
+1. Description Générale
+2. Architecture Technique
+3. Description des Fenêtres
+4. Base de Données
+5. Bibliothèques Utilisées
+6. Guide d'Installation
+7. Guide d'Utilisation
+
+1. DESCRIPTION GÉNÉRALE
+----------------------
+TaskFlow est une application de gestion de projets développée en Java qui permet 
+de gérer efficacement les projets, les tâches et les équipes. Elle offre une 
+interface moderne et intuitive basée sur Swing avec un design contemporain 
+grâce à FlatLaf.
+
+2. ARCHITECTURE TECHNIQUE
+------------------------
+- Langage : Java
+- Interface : Swing avec FlatLaf
+- Base de données : MySQL
+- Layout Manager : MigLayout
+- Génération de rapports : iTextPDF
+- Graphiques : JFreeChart
+- Gestion BDD : Commons DBUtils
+- Composants supplémentaires : JCalendar, DatePicker
+
+3. DESCRIPTION DES FENÊTRES
+---------------------------
+a) Fenêtre de Connexion (LoginFrame)
+   - Point d'entrée de l'application
+   - Design moderne avec dégradé
+   - Authentification sécurisée
+
+b) Tableau de Bord Principal (MainDashboard)
+   - Navigation latérale
+   - Vue d'ensemble du système
+   - Accès à toutes les fonctionnalités
+
+c) Panneau des Projets (ProjectPanel)
+   - Création/modification de projets
+   - Liste des projets en cours
+   - Suivi de l'avancement
+
+d) Panneau des Tâches (TaskPanel)
+   - Gestion complète des tâches
+   - Filtrage et tri
+   - Assignation aux utilisateurs
+
+e) Panneau d'Assignation (AssignmentPanel)
+   - Attribution des tâches
+   - Gestion des équipes
+   - Historique des assignations
+
+f) Tableau de Bord KPI (KPIPanel)
+   - Indicateurs de performance
+   - Graphiques et statistiques
+   - Suivi des objectifs
+
+g) Historique (HistoryPanel)
+   - Suivi des activités
+   - Journal des modifications
+   - Traçabilité complète
+
+h) Gestion Utilisateurs (UserManagementPanel)
+   - Administration des comptes
+   - Attribution des rôles
+   - Gestion des droits
+
+i) Gestion des Rôles (RoleManagementPanel)
+   - Configuration des permissions
+   - Définition des rôles
+   - Sécurité du système
+
+4. BASE DE DONNÉES
+-----------------
+Structure principale :
+- Utilisateurs
+- Projets
+- Tâches
+- Rôles
+- Assignations
+- Historique
+
+Relations :
+- Un projet contient plusieurs tâches
+- Une tâche est assignée à des utilisateurs
+- Un utilisateur a un rôle
+- Toutes les actions sont tracées
+
+5. BIBLIOTHÈQUES UTILISÉES
+--------------------------
+Interface graphique :
+- flatlaf-3.4.1.jar : Thème moderne
+- miglayout-swing.jar : Gestionnaire de mise en page
+- jcalendar-1.3.2.jar : Sélection de dates
+- swing-datetime-picker : Sélection date/heure
+
+Fonctionnalités :
+- mysql-connector-j-9.1.0.jar : Connexion MySQL
+- commons-dbutils-1.8.1.jar : Utilitaires BDD
+- jfreechart-1.5.3.jar : Création de graphiques
+- itextpdf-5.5.13.jar : Génération PDF
+
+Utilitaires :
+- swing-toast-notifications : Notifications
+- thumbnailator : Gestion images
+- swing-glasspane-popup : Popups modernes
+
+6. GUIDE D'INSTALLATION
+----------------------
+1. Prérequis :
+   - JDK 8 ou supérieur
+   - MySQL Server
+   - 4 Go RAM minimum
+   - 500 Mo espace disque
+
+2. Installation :
+   - Exécuter le script SQL (taskflow.sql)
+   - Configurer les accès base de données
+   - Lancer l'application via le JAR
+
+7. GUIDE D'UTILISATION
+---------------------
+1. Connexion :
+   - Entrer email et mot de passe
+   - Accès au tableau de bord
+
+2. Navigation :
+   - Menu latéral pour accéder aux fonctions
+   - En-tête pour recherche et profil
+
+3. Gestion de Projets :
+   - Créer nouveau projet
+   - Assigner des tâches
+   - Suivre l'avancement
+
+4. Gestion des Tâches :
+   - Créer/modifier tâches
+   - Assigner aux utilisateurs
+   - Définir priorités
+
+5. Suivi et Rapports :
+   - Consulter les KPIs
+   - Générer des rapports
+   - Analyser les performances

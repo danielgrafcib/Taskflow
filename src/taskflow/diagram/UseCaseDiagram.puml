@@ -1,0 +1,75 @@
+@startuml TaskFlow - Cas d'utilisation
+
+skinparam usecase {
+    BackgroundColor white
+    BorderColor #2688d4
+    ArrowColor #2688d4
+}
+
+skinparam actor {
+    BackgroundColor white
+    BorderColor #2688d4
+}
+
+' Acteurs
+actor "Utilisateur" as User
+actor "Administrateur" as Admin
+actor "Chef de Projet" as ProjectManager
+
+rectangle TaskFlow {
+    ' Gestion des comptes
+    usecase "Se connecter" as UC1
+    usecase "Gérer son profil" as UC2
+
+    ' Gestion des projets
+    usecase "Créer un projet" as UC3
+    usecase "Modifier un projet" as UC4
+    usecase "Suivre l'avancement\ndu projet" as UC5
+
+    ' Gestion des tâches
+    usecase "Créer une tâche" as UC6
+    usecase "Assigner une tâche" as UC7
+    usecase "Mettre à jour le statut\nd'une tâche" as UC8
+    usecase "Consulter ses tâches" as UC9
+
+    ' Administration
+    usecase "Gérer les utilisateurs" as UC10
+    usecase "Gérer les rôles" as UC11
+    usecase "Configurer le système" as UC12
+
+    ' Rapports et KPIs
+    usecase "Générer des rapports" as UC13
+    usecase "Consulter les KPIs" as UC14
+    usecase "Consulter l'historique" as UC15
+}
+
+' Relations utilisateur standard
+User --> UC1
+User --> UC2
+User --> UC8
+User --> UC9
+User --> UC15
+
+' Relations chef de projet
+ProjectManager --> User
+ProjectManager --> UC3
+ProjectManager --> UC4
+ProjectManager --> UC5
+ProjectManager --> UC6
+ProjectManager --> UC7
+ProjectManager --> UC13
+ProjectManager --> UC14
+
+' Relations administrateur
+Admin --> ProjectManager
+Admin --> UC10
+Admin --> UC11
+Admin --> UC12
+
+' Extensions et inclusions
+UC3 ..> UC6 : "<<include>>"
+UC7 ..> UC15 : "<<include>>"
+UC8 ..> UC15 : "<<include>>"
+UC10 ..> UC11 : "<<include>>"
+
+@enduml 

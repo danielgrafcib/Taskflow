@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: taskflow.TaskFlowApp
+Class-Path: lib/mysql-connector-j-9.1.0.jar lib/flatlaf-3.4.1.jar lib/flatlaf-extras-3.4.1.jar lib/commons-dbutils-1.8.1.jar lib/jcalendar-1.3.2.jar lib/miglayout-core.jar lib/miglayout-swing.jar lib/swing-datetime-picker-1.2.0.jar lib/swing-glasspane-popup-1.5.0.jar lib/swing-toast-notifications-1.0.2.jar lib/itextpdf-5.5.13.jar lib/jfreechart-1.5.3.jar lib/jsvg-1.4.0.jar lib/flatlaf-fonts-roboto-2.137.jar

@@ -1,0 +1,242 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\Taskflow.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Microsoft VS Code\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\cursor\resources\app\bin;i:\cursor\resources\app\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Launch4j\bin;e:\Trae\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.9.9\bin;I:\cursor\resources\app\bin;C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Launch4j\bin;C:\Program Files (x86)\Launch4j\bin;;C:\Program Files\Java\jdk-12.0.2\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Microsoft VS Code\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\cursor\resources\app\bin;i:\cursor\resources\app\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Launch4j\bin;e:\Trae\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.9.9\bin;I:\cursor\resources\app\bin;C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Launch4j\bin;C:\Program Files (x86)\Launch4j\bin;;C:\Program Files\Java\jdk-12.0.2\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\130\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\composer\bin\javaw.exe (not found)
+Check launcher:	C:\wamp64\bin\php\php8.0.30\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\tools\dart-sdk\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Pub\Cache\
+
+Version:	3.50
+CmdLine:	C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\Taskflow.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Microsoft VS Code\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\cursor\resources\app\bin;i:\cursor\resources\app\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Launch4j\bin;e:\Trae\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.9.9\bin;I:\cursor\resources\app\bin;C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Launch4j\bin;C:\Program Files (x86)\Launch4j\bin;;C:\Program Files\Java\jdk-12.0.2\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Microsoft VS Code\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\cursor\resources\app\bin;i:\cursor\resources\app\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Launch4j\bin;e:\Trae\bin;C:\Python313\Scripts\;C:\Python313\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Git\cmd;C:\composer;C:\wamp64\bin\php\php8.0.30;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\Program Files\dotnet\;C:\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\;C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps;C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin;C:\Users\Ezekiel\AppData\Roaming\npm;C:\flutter_windows_3.27.3-stable\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin;C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools;C:\apache-maven-3.9.9\bin;I:\cursor\resources\app\bin;C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Launch4j\bin;C:\Program Files (x86)\Launch4j\bin;;C:\Program Files\Java\jdk-12.0.2\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	c:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\130\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\composer\bin\javaw.exe (not found)
+Check launcher:	C:\wamp64\bin\php\php8.0.30\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\tools\dart-sdk\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\apache-maven-3.9.9\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	i:\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	e:\Trae\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\130\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\composer\bin\javaw.exe (not found)
+Check launcher:	C:\wamp64\bin\php\php8.0.30\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\tools\dart-sdk\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\apache-maven-3.9.9\bin\javaw.exe (not found)
+Check launcher:	I:\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+Ignore:		1.012.000_002
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\Taskflow.exe"
+Args length:	77/32768 chars
+Exit code:	0
+bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\apache-maven-3.9.9\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	i:\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	e:\Trae\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\130\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\composer\bin\javaw.exe (not found)
+Check launcher:	C:\wamp64\bin\php\php8.0.30\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\Composer\vendor\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\tools\dart-sdk\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Pub\Cache\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\Downloads\Compressed\flutter_windows_3.27.3-stable\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\apache-maven-3.9.9\bin\javaw.exe (not found)
+Check launcher:	I:\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Ezekiel\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Launch4j\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Version string: 1.012.000_002 / 64-Bit (Ignore)
+Ignore:		1.012.000_002
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ezekiel\Documents\NetBeansProjects\TaskFlow\dist\Taskflow.exe"
+Args length:	77/32768 chars
+Exit code:	0

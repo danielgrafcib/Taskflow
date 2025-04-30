@@ -1,0 +1,73 @@
+@startuml TaskFlow
+
+skinparam class {
+    BackgroundColor white
+    ArrowColor #2688d4
+    BorderColor #2688d4
+}
+
+class Utilisateur {
+    -int id
+    -String nom
+    -String email
+    -String motDePasse
+    +getters()
+    +setters()
+}
+
+class Role {
+    -int id
+    -String nom
+    -String description
+    +getters()
+    +setters()
+}
+
+class Projet {
+    -int id
+    -String nom
+    -String description
+    -Date dateDebut
+    -Date dateFin
+    -String statut
+    +getters()
+    +setters()
+}
+
+class Tache {
+    -int id
+    -String titre
+    -String description
+    -Date dateEcheance
+    -String priorite
+    -String statut
+    +getters()
+    +setters()
+}
+
+class TacheUtilisateur {
+    -int id
+    -Date dateAssignation
+    +getters()
+    +setters()
+}
+
+class HistoriqueAction {
+    -int id
+    -String action
+    -Date dateAction
+    +getters()
+    +setters()
+}
+
+' Relations
+Utilisateur "1" *-- "1" Role : possède
+Projet "1" *-- "*" Tache : contient
+Utilisateur "*" -- "*" Tache : est assigné à
+(Utilisateur, Tache) .. TacheUtilisateur
+
+HistoriqueAction "*" -- "1" Utilisateur : effectué par
+HistoriqueAction "*" -- "0..1" Projet : concerne
+HistoriqueAction "*" -- "0..1" Tache : affecte
+
+@enduml 
